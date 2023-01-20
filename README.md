@@ -1,6 +1,9 @@
-## 👋 Namaste, World! I am Ankush.
+## 👋 _Namaste_, World! I am Ankush.
 
-#### I am working on and maintaining [@frappe/erpnext](https://github.com/frappe/erpnext) and [@frappe/frappe](https://github.com/frappe/frappe).
+I am building and maintaining [@frappe/frappe](https://github.com/frappe/frappe) a low-code web framework for building business apps wicked fast. 
+
+
+Previously full-time maintainer of [@frappe/erpnext](https://github.com/frappe/erpnext) - **100%** FOSS ERP software.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,6 +17,3 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a>
 <a href="https://frappeframework.com/"><img height="20" src="https://raw.githubusercontent.com/frappe/frappe/develop/.github/frappe-framework-logo.svg"></a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush&show_icons=true&theme=dark&locale=en" alt="ankush" /></p>
